@@ -204,7 +204,7 @@ a, a:hover, a:focus {
     height: 100%; }
 
 .main-text,.coming-soon,.counter-text{
-    margin: 2%;
+    /* margin: 2%; */
     color: #EAECEE;
     transition-delay: 1s;
     
@@ -245,10 +245,10 @@ a, a:hover, a:focus {
     align-items: center;
 }
 .social{
-    margin:2%;
+    /* margin:2%; */
 }
 .social i{
-    margin: 2%;
+    
     font-size: 2rem;
     color: #550fcb;
 }
@@ -289,7 +289,7 @@ i{
 .days{
 
     border-bottom: 0.5rem solid #550fcb ;
-    margin:2%;
+    
     box-shadow: 10px 10px 8px  #E53935 inset;
     border-radius: 20px;
     font-size: 3.5rem;
